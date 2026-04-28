@@ -1,0 +1,14 @@
+bin/
+obj/
+
+.vs/
+*.user
+*.suo
+
+appsettings.Development.json
+
+.idea/
+.vscode/
+
+*.swp
+*.tmp
