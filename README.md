@@ -207,7 +207,7 @@ Busca uma tarefa específica.
 
 ### Response
 
-```json
+```jso
 {
   "code": 1,
   "description": "Tarefa teste",
